@@ -1,0 +1,18 @@
+/* css code */
+
+body {
+  background-color: #ececec;
+}
+h1 {
+  color: #00909e;
+}
+h3 {
+  color: #00909e;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #00909e;
+  border-width: 5px;
+  width : 20%;
+}
